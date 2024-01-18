@@ -1,0 +1,30 @@
+export const navLinks = [
+    {
+        id:2,
+        name:"Articles"
+    },
+    {
+        id:3,
+        name:"Services"
+    },
+    {
+        id:3,
+        name:"Qualifications"
+    },
+    {
+        id:4,
+        name:"Projects"
+    },
+    {
+        id:5,
+        name:"Experience",
+    },
+    {
+        id:6,
+        name:"Skills"
+    },
+    {
+        id:7,
+        name:"Contact"
+    }
+]
